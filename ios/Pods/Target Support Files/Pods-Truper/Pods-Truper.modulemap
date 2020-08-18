@@ -1,0 +1,6 @@
+module Pods_Truper {
+  umbrella header "Pods-Truper-umbrella.h"
+
+  export *
+  module * { export * }
+}
