@@ -7,19 +7,11 @@
  */
 
 import React from 'react';
-import {
-  StyleSheet,
-  View,
-  Text,
-  Button,
-  Image,
-} from 'react-native';
-
+import {StyleSheet, View, Text, Button, Image} from 'react-native';
 
 import 'react-native-gesture-handler';
 
 import Header from './src/shared/Header';
-
 
 import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
@@ -62,12 +54,10 @@ function App() {
     <NavigationContainer>
       <Stack.Navigator>
         <Stack.Screen
-          name="Home"
+          name=" "
           component={HomeScreen}
           options={{
-            headerTitleAlign: 'left',
-            headerTitle: () => <Header />,
-            headerBackTitleVisible: false,
+            headerShown: false,
           }}
         />
         <Stack.Screen
@@ -90,7 +80,6 @@ const styles = StyleSheet.create({
     height: 20.5,
     width: 24,
     marginLeft: 12,
-    marginVertical: 12,
     resizeMode: 'contain',
   },
   myCustomHeaderBackImageAlt: {

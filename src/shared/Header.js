@@ -28,8 +28,9 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   headerText: {
-    textAlign: 'center',
     fontWeight: 'bold',
+    marginRight: 50,
+    alignItems: 'center',
     fontSize: 20,
     color: '#333',
     letterSpacing: 1,
