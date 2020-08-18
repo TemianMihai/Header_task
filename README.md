@@ -1,5 +1,6 @@
 # Header_task
 
+
 Task from Marius: Create the app's header.
 
 I've used React Navigation in order to create a navigation and a Header for screens. I used vector icons for search and menu icons from the right side of the screen. 
@@ -54,3 +55,5 @@ options={{
 ```
 
 *** Search and menu functions on the way ***
+
+<img width="571" alt="Screenshot 2020-08-18 at 16 03 58" src="https://user-images.githubusercontent.com/19783030/90529475-70082e00-e17c-11ea-8231-665d3c2d7263.png">
