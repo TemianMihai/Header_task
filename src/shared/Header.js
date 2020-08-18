@@ -1,11 +1,8 @@
 import React from 'react';
 import {
-  SafeAreaView,
   StyleSheet,
-  ScrollView,
   View,
   Text,
-  StatusBar,
 } from 'react-native';
 
 import Icon from 'react-native-vector-icons/FontAwesome';
@@ -13,12 +10,6 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 export default function Header() {
   return (
     <View style={styles.header}>
-      <Icon
-        name="arrow-left"
-        size={20}
-        color="#4d4a43"
-        style={styles.backIcon}
-      />
       <View>
         <Text style={styles.headerText}>Marcas</Text>
       </View>
@@ -37,6 +28,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   headerText: {
+    textAlign: 'center',
     fontWeight: 'bold',
     fontSize: 20,
     color: '#333',
