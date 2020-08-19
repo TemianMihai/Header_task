@@ -1,20 +1,18 @@
 import React from 'react';
-import {
-  StyleSheet,
-  View,
-  Text,
-} from 'react-native';
+import {StyleSheet, View, Text} from 'react-native';
 
 import Icon from 'react-native-vector-icons/FontAwesome';
 
 export default function Header() {
   return (
     <View style={styles.header}>
-      <View>
+      <View style={styles.headerTextBox}>
         <Text style={styles.headerText}>Marcas</Text>
       </View>
-      <Icon name="bars" size={20} color="#fcba03" style={styles.searchIcon} />
-      <Icon name="search" size={20} color="#fcba03" style={styles.menuIcon} />
+      <View style={styles.icons}>
+        <Icon name="bars" size={20} color="#fcba03" style={styles.iconMargins}/>
+        <Icon name="search" size={20} color="#fcba03" />
+      </View>
     </View>
   );
 }
@@ -27,24 +25,29 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  headerText: {
+  headerTextBox: {
     fontWeight: 'bold',
-    marginRight: 50,
     alignItems: 'center',
     fontSize: 20,
     color: '#333',
     letterSpacing: 1,
+    justifyContent: 'center',
+    flex:5,
   },
-  backIcon: {
-    position: 'absolute',
-    left: 0,
+  headerText: {
+    fontWeight: 'bold',
+    alignItems: 'center',
+    fontSize: 20,
+    color: '#333',
+    letterSpacing: 1,
+    justifyContent: 'center',
   },
-  searchIcon: {
-    position: 'absolute',
-    right: 0,
+  icons: {
+    flex: 1,
+    flexDirection: 'row',
+    justifyContent: 'flex-end',
   },
-  menuIcon: {
-    position: 'absolute',
-    right: 35,
+  iconMargins: {
+    marginRight:5,
   },
 });
