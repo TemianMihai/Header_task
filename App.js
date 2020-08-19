@@ -17,7 +17,7 @@ import {createStackNavigator} from '@react-navigation/stack';
 
 import HomeScreen from './src/components/HomeScreen';
 import HomeScreen2 from './src/components/HomeScreen2';
-import CustomHeaderBackImage from './src/components/CustomBackButton';
+import CustomHeaderBackImage from './src/shared/CustomBackButton';
 
 const Stack = createStackNavigator();
 
