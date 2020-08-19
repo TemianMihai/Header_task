@@ -10,11 +10,18 @@ Header.js
 export default function Header() {
   return (
     <View style={styles.header}>
-      <View>
+      <View style={styles.headerTextBox}>
         <Text style={styles.headerText}>Marcas</Text>
       </View>
-      <Icon name="bars" size={20} color="#fcba03" style={styles.searchIcon} />
-      <Icon name="search" size={20} color="#fcba03" style={styles.menuIcon} />
+      <View style={styles.icons}>
+        <Icon
+          name="bars"
+          size={20}
+          color="#fcba03"
+          style={styles.iconMargins}
+        />
+        <Icon name="search" size={20} color="#fcba03" />
+      </View>
     </View>
   );
 }
