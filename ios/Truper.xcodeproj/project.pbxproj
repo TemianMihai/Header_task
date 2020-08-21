@@ -8,34 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* TruperTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* TruperTests.m */; };
-		02FE898CE1514EC78D5B0B0C /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 997818A439D84EFBACC57116 /* AntDesign.ttf */; };
-		04D8D865AB71D405137EB9AF /* libPods-Truper-TruperTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 43F6FF501F8F0EE59539279A /* libPods-Truper-TruperTests.a */; };
+		1199FECED53D715D1CB14A02 /* libPods-Truper.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D353A2051995F917025015BD /* libPods-Truper.a */; };
+		1334D363CE2A1A4280786F87 /* libPods-Truper-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CE981C22AD5AB1B5408FDF60 /* libPods-Truper-tvOSTests.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		17438B88158B464CAF22FD85 /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 065B8BE618144CDC8768F2A4 /* Feather.ttf */; };
-		2AA7DF29495F3603FBF3ABBF /* libPods-Truper-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DDB3B47ABD8170D55ABBCF4C /* libPods-Truper-tvOS.a */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2D7D5BDA536F4FED8BF34139 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0C22621F64524C1FB0DEA429 /* Entypo.ttf */; };
 		2DCD954D1E0B4F2C00145EB5 /* TruperTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* TruperTests.m */; };
-		50E641FC67674B2E9F5E2333 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C08F07E7E6FC4C488C115C40 /* FontAwesome5_Solid.ttf */; };
-		56574B1357AA49B8955174B8 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4C302827CF6E405C9DA9BC8F /* Octicons.ttf */; };
-		5EC61D3E663949D1B0C5FB77 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 217A77FCBDF24AA3A73734A8 /* Zocial.ttf */; };
-		5F661A496483479FA66CC079 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B8BF888BFF3A488BAE8FFCF8 /* Foundation.ttf */; };
-		63128861B1B44A61A005079C /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1C3323ED17FE47B68C744B63 /* Ionicons.ttf */; };
-		66FDB44A3FDDE788C139E82C /* libPods-Truper.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 099275D549AD9B52EBE65A42 /* libPods-Truper.a */; };
+		3D6E6F3038897D9F888C2A43 /* libPods-Truper-TruperTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F1B9823D50A85C75D0CFE42F /* libPods-Truper-TruperTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		84D85FFA48BF4276B270DEA6 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E42E92D3E0A54EC7AA0A12A8 /* FontAwesome.ttf */; };
-		925D1903658342F5B2F043C7 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A361F06F3DDD41BEBE769370 /* MaterialIcons.ttf */; };
-		93F26948F711409CA6EC0DC5 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4E2B53D613524E27AB26A09E /* Fontisto.ttf */; };
-		9A38F889EFBB422E9E207AE5 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B5934115819E40679AFDD5D2 /* SimpleLineIcons.ttf */; };
-		9FD65D364FF14CBAB9BB9F46 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F0CC08B88BD84936A0B22182 /* EvilIcons.ttf */; };
-		D9E74F55ED754E1A9383E68C /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 703A8CAA527F4DD9B9018104 /* FontAwesome5_Regular.ttf */; };
-		E69DE0D2D4C64703AE6677B0 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A19DB6478F7E4343B8ACA0B5 /* FontAwesome5_Brands.ttf */; };
-		EDAC2C436CDE25739382C606 /* libPods-Truper-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 90C171A3A3EBD885DEEADEEC /* libPods-Truper-tvOSTests.a */; };
-		FD0B36B605944043A07FBF5E /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 111EA6EA41954230A60EF71C /* MaterialCommunityIcons.ttf */; };
+		D44C04AC11996CAE7F59A683 /* libPods-Truper-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 000BFEE805E1792FD7062D35 /* libPods-Truper-tvOS.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,49 +40,33 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		000BFEE805E1792FD7062D35 /* libPods-Truper-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Truper-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
 		00E356EE1AD99517003FC87E /* TruperTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TruperTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* TruperTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TruperTests.m; sourceTree = "<group>"; };
-		065B8BE618144CDC8768F2A4 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
-		099275D549AD9B52EBE65A42 /* libPods-Truper.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Truper.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0C22621F64524C1FB0DEA429 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
-		111EA6EA41954230A60EF71C /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* Truper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Truper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Truper/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Truper/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Truper/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Truper/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Truper/main.m; sourceTree = "<group>"; };
-		15EA80982507E1ED582190F5 /* Pods-Truper-TruperTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Truper-TruperTests.debug.xcconfig"; path = "Target Support Files/Pods-Truper-TruperTests/Pods-Truper-TruperTests.debug.xcconfig"; sourceTree = "<group>"; };
-		1C3323ED17FE47B68C744B63 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
-		1C4615E01773E0F10C0B4FC9 /* Pods-Truper.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Truper.debug.xcconfig"; path = "Target Support Files/Pods-Truper/Pods-Truper.debug.xcconfig"; sourceTree = "<group>"; };
-		1F5F4CD6B6063C547188CCDA /* Pods-Truper.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Truper.release.xcconfig"; path = "Target Support Files/Pods-Truper/Pods-Truper.release.xcconfig"; sourceTree = "<group>"; };
-		217A77FCBDF24AA3A73734A8 /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* Truper-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Truper-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* Truper-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Truper-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3D59101265768EB826CB3E44 /* Pods-Truper-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Truper-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-Truper-tvOSTests/Pods-Truper-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		437D0ACC97D984ABEF7F8DCB /* Pods-Truper-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Truper-tvOS.release.xcconfig"; path = "Target Support Files/Pods-Truper-tvOS/Pods-Truper-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		43F6FF501F8F0EE59539279A /* libPods-Truper-TruperTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Truper-TruperTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		49469ADA30C8436F36A52814 /* Pods-Truper-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Truper-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-Truper-tvOS/Pods-Truper-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		4C302827CF6E405C9DA9BC8F /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
-		4E2B53D613524E27AB26A09E /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
-		703A8CAA527F4DD9B9018104 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
+		370A49F5FEB30804603FDC29 /* Pods-Truper-TruperTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Truper-TruperTests.release.xcconfig"; path = "Target Support Files/Pods-Truper-TruperTests/Pods-Truper-TruperTests.release.xcconfig"; sourceTree = "<group>"; };
+		49E739469B106B17326CE86C /* Pods-Truper-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Truper-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-Truper-tvOSTests/Pods-Truper-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		612195B7785B42FB406A337D /* Pods-Truper.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Truper.debug.xcconfig"; path = "Target Support Files/Pods-Truper/Pods-Truper.debug.xcconfig"; sourceTree = "<group>"; };
+		797AC51EEC309EDBF31198D3 /* Pods-Truper-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Truper-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-Truper-tvOS/Pods-Truper-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Truper/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		90C171A3A3EBD885DEEADEEC /* libPods-Truper-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Truper-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9723B82D8C9BB08A0D6317C3 /* Pods-Truper-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Truper-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-Truper-tvOSTests/Pods-Truper-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		997818A439D84EFBACC57116 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
-		A19DB6478F7E4343B8ACA0B5 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
-		A361F06F3DDD41BEBE769370 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
-		B5934115819E40679AFDD5D2 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
-		B8BF888BFF3A488BAE8FFCF8 /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
-		C08F07E7E6FC4C488C115C40 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
-		DDB3B47ABD8170D55ABBCF4C /* libPods-Truper-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Truper-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E42E92D3E0A54EC7AA0A12A8 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		A8242876064F9C12625AD192 /* Pods-Truper-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Truper-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-Truper-tvOSTests/Pods-Truper-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		A8E455C3B84D452D6D3ACC1C /* Pods-Truper-TruperTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Truper-TruperTests.debug.xcconfig"; path = "Target Support Files/Pods-Truper-TruperTests/Pods-Truper-TruperTests.debug.xcconfig"; sourceTree = "<group>"; };
+		CE981C22AD5AB1B5408FDF60 /* libPods-Truper-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Truper-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D353A2051995F917025015BD /* libPods-Truper.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Truper.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E7D8C2B76DBF34C24F8B169D /* Pods-Truper.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Truper.release.xcconfig"; path = "Target Support Files/Pods-Truper/Pods-Truper.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		EFD3E82CA5926ACDC790CD06 /* Pods-Truper-TruperTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Truper-TruperTests.release.xcconfig"; path = "Target Support Files/Pods-Truper-TruperTests/Pods-Truper-TruperTests.release.xcconfig"; sourceTree = "<group>"; };
-		F0CC08B88BD84936A0B22182 /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		EEFCF93DCFA0A04391EB1E34 /* Pods-Truper-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Truper-tvOS.release.xcconfig"; path = "Target Support Files/Pods-Truper-tvOS/Pods-Truper-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		F1B9823D50A85C75D0CFE42F /* libPods-Truper-TruperTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Truper-TruperTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,7 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04D8D865AB71D405137EB9AF /* libPods-Truper-TruperTests.a in Frameworks */,
+				3D6E6F3038897D9F888C2A43 /* libPods-Truper-TruperTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -114,7 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				66FDB44A3FDDE788C139E82C /* libPods-Truper.a in Frameworks */,
+				1199FECED53D715D1CB14A02 /* libPods-Truper.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -122,7 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2AA7DF29495F3603FBF3ABBF /* libPods-Truper-tvOS.a in Frameworks */,
+				D44C04AC11996CAE7F59A683 /* libPods-Truper-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -130,7 +98,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EDAC2C436CDE25739382C606 /* libPods-Truper-tvOSTests.a in Frameworks */,
+				1334D363CE2A1A4280786F87 /* libPods-Truper-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -154,6 +122,30 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		0452227B3E10A042515ACACF /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				612195B7785B42FB406A337D /* Pods-Truper.debug.xcconfig */,
+				E7D8C2B76DBF34C24F8B169D /* Pods-Truper.release.xcconfig */,
+				A8E455C3B84D452D6D3ACC1C /* Pods-Truper-TruperTests.debug.xcconfig */,
+				370A49F5FEB30804603FDC29 /* Pods-Truper-TruperTests.release.xcconfig */,
+				797AC51EEC309EDBF31198D3 /* Pods-Truper-tvOS.debug.xcconfig */,
+				EEFCF93DCFA0A04391EB1E34 /* Pods-Truper-tvOS.release.xcconfig */,
+				49E739469B106B17326CE86C /* Pods-Truper-tvOSTests.debug.xcconfig */,
+				A8242876064F9C12625AD192 /* Pods-Truper-tvOSTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		0CF67F6298A6418D915E5991 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		13B07FAE1A68108700A75B9A /* Truper */ = {
 			isa = PBXGroup;
 			children = (
@@ -173,36 +165,12 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				099275D549AD9B52EBE65A42 /* libPods-Truper.a */,
-				43F6FF501F8F0EE59539279A /* libPods-Truper-TruperTests.a */,
-				DDB3B47ABD8170D55ABBCF4C /* libPods-Truper-tvOS.a */,
-				90C171A3A3EBD885DEEADEEC /* libPods-Truper-tvOSTests.a */,
+				D353A2051995F917025015BD /* libPods-Truper.a */,
+				F1B9823D50A85C75D0CFE42F /* libPods-Truper-TruperTests.a */,
+				000BFEE805E1792FD7062D35 /* libPods-Truper-tvOS.a */,
+				CE981C22AD5AB1B5408FDF60 /* libPods-Truper-tvOSTests.a */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		76B8BEBF58674DA6AE1B8179 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				997818A439D84EFBACC57116 /* AntDesign.ttf */,
-				0C22621F64524C1FB0DEA429 /* Entypo.ttf */,
-				F0CC08B88BD84936A0B22182 /* EvilIcons.ttf */,
-				065B8BE618144CDC8768F2A4 /* Feather.ttf */,
-				E42E92D3E0A54EC7AA0A12A8 /* FontAwesome.ttf */,
-				A19DB6478F7E4343B8ACA0B5 /* FontAwesome5_Brands.ttf */,
-				703A8CAA527F4DD9B9018104 /* FontAwesome5_Regular.ttf */,
-				C08F07E7E6FC4C488C115C40 /* FontAwesome5_Solid.ttf */,
-				4E2B53D613524E27AB26A09E /* Fontisto.ttf */,
-				B8BF888BFF3A488BAE8FFCF8 /* Foundation.ttf */,
-				1C3323ED17FE47B68C744B63 /* Ionicons.ttf */,
-				111EA6EA41954230A60EF71C /* MaterialCommunityIcons.ttf */,
-				A361F06F3DDD41BEBE769370 /* MaterialIcons.ttf */,
-				4C302827CF6E405C9DA9BC8F /* Octicons.ttf */,
-				B5934115819E40679AFDD5D2 /* SimpleLineIcons.ttf */,
-				217A77FCBDF24AA3A73734A8 /* Zocial.ttf */,
-			);
-			name = Resources;
-			path = "";
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -220,8 +188,8 @@
 				00E356EF1AD99517003FC87E /* TruperTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
-				86C270FABF58F3D92805B4B9 /* Pods */,
-				76B8BEBF58674DA6AE1B8179 /* Resources */,
+				0452227B3E10A042515ACACF /* Pods */,
+				0CF67F6298A6418D915E5991 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -239,22 +207,6 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		86C270FABF58F3D92805B4B9 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				1C4615E01773E0F10C0B4FC9 /* Pods-Truper.debug.xcconfig */,
-				1F5F4CD6B6063C547188CCDA /* Pods-Truper.release.xcconfig */,
-				15EA80982507E1ED582190F5 /* Pods-Truper-TruperTests.debug.xcconfig */,
-				EFD3E82CA5926ACDC790CD06 /* Pods-Truper-TruperTests.release.xcconfig */,
-				49469ADA30C8436F36A52814 /* Pods-Truper-tvOS.debug.xcconfig */,
-				437D0ACC97D984ABEF7F8DCB /* Pods-Truper-tvOS.release.xcconfig */,
-				9723B82D8C9BB08A0D6317C3 /* Pods-Truper-tvOSTests.debug.xcconfig */,
-				3D59101265768EB826CB3E44 /* Pods-Truper-tvOSTests.release.xcconfig */,
-			);
-			name = Pods;
-			path = Pods;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -262,11 +214,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "TruperTests" */;
 			buildPhases = (
-				4A04283B2B2ED86C66C11120 /* [CP] Check Pods Manifest.lock */,
+				3FA9A17E0A3F948C3804DFBF /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				D796C50AB8906C83A5F6B466 /* [CP] Copy Pods Resources */,
+				855113F0DB001EAC0CCCF8D0 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -282,13 +234,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "Truper" */;
 			buildPhases = (
-				59B8D1125A173A0ADDAFCAEA /* [CP] Check Pods Manifest.lock */,
+				9F648557FDDD9523CD4BDAB4 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				92A834672E2BAB7AC5714584 /* [CP] Copy Pods Resources */,
+				F446B049A879FCF4E368B318 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -303,7 +255,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "Truper-tvOS" */;
 			buildPhases = (
-				14C42D0FDFA5519257F84981 /* [CP] Check Pods Manifest.lock */,
+				61B74A4DEC501A7566CAD62E /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
 				2D02E4771E0B4A5D006451C7 /* Sources */,
 				2D02E4781E0B4A5D006451C7 /* Frameworks */,
@@ -323,7 +275,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "Truper-tvOSTests" */;
 			buildPhases = (
-				013431DA0A1F0ED562F5D3E3 /* [CP] Check Pods Manifest.lock */,
+				94AC59826158A326411F7E3B /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
 				2D02E48D1E0B4A5D006451C7 /* Frameworks */,
 				2D02E48E1E0B4A5D006451C7 /* Resources */,
@@ -399,22 +351,6 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				02FE898CE1514EC78D5B0B0C /* AntDesign.ttf in Resources */,
-				2D7D5BDA536F4FED8BF34139 /* Entypo.ttf in Resources */,
-				9FD65D364FF14CBAB9BB9F46 /* EvilIcons.ttf in Resources */,
-				17438B88158B464CAF22FD85 /* Feather.ttf in Resources */,
-				84D85FFA48BF4276B270DEA6 /* FontAwesome.ttf in Resources */,
-				E69DE0D2D4C64703AE6677B0 /* FontAwesome5_Brands.ttf in Resources */,
-				D9E74F55ED754E1A9383E68C /* FontAwesome5_Regular.ttf in Resources */,
-				50E641FC67674B2E9F5E2333 /* FontAwesome5_Solid.ttf in Resources */,
-				93F26948F711409CA6EC0DC5 /* Fontisto.ttf in Resources */,
-				5F661A496483479FA66CC079 /* Foundation.ttf in Resources */,
-				63128861B1B44A61A005079C /* Ionicons.ttf in Resources */,
-				FD0B36B605944043A07FBF5E /* MaterialCommunityIcons.ttf in Resources */,
-				925D1903658342F5B2F043C7 /* MaterialIcons.ttf in Resources */,
-				56574B1357AA49B8955174B8 /* Octicons.ttf in Resources */,
-				9A38F889EFBB422E9E207AE5 /* SimpleLineIcons.ttf in Resources */,
-				5EC61D3E663949D1B0C5FB77 /* Zocial.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -450,50 +386,6 @@
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
-		013431DA0A1F0ED562F5D3E3 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Truper-tvOSTests-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		14C42D0FDFA5519257F84981 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Truper-tvOS-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
 		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -508,7 +400,7 @@
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
-		4A04283B2B2ED86C66C11120 /* [CP] Check Pods Manifest.lock */ = {
+		3FA9A17E0A3F948C3804DFBF /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -530,7 +422,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		59B8D1125A173A0ADDAFCAEA /* [CP] Check Pods Manifest.lock */ = {
+		61B74A4DEC501A7566CAD62E /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -545,64 +437,14 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Truper-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-Truper-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		92A834672E2BAB7AC5714584 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Truper/Pods-Truper-resources.sh",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
-				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
-				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Feather.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Brands.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Regular.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Solid.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Fontisto.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Foundation.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Ionicons.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialCommunityIcons.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialIcons.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Truper/Pods-Truper-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		D796C50AB8906C83A5F6B466 /* [CP] Copy Pods Resources */ = {
+		855113F0DB001EAC0CCCF8D0 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -650,6 +492,100 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Truper-TruperTests/Pods-Truper-TruperTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		94AC59826158A326411F7E3B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Truper-tvOSTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9F648557FDDD9523CD4BDAB4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Truper-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F446B049A879FCF4E368B318 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Truper/Pods-Truper-resources.sh",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
+				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Feather.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Brands.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Regular.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Solid.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Fontisto.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Foundation.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Ionicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialCommunityIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Truper/Pods-Truper-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -745,7 +681,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 15EA80982507E1ED582190F5 /* Pods-Truper-TruperTests.debug.xcconfig */;
+			baseConfigurationReference = A8E455C3B84D452D6D3ACC1C /* Pods-Truper-TruperTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -768,7 +704,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EFD3E82CA5926ACDC790CD06 /* Pods-Truper-TruperTests.release.xcconfig */;
+			baseConfigurationReference = 370A49F5FEB30804603FDC29 /* Pods-Truper-TruperTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -788,7 +724,7 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1C4615E01773E0F10C0B4FC9 /* Pods-Truper.debug.xcconfig */;
+			baseConfigurationReference = 612195B7785B42FB406A337D /* Pods-Truper.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -811,7 +747,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1F5F4CD6B6063C547188CCDA /* Pods-Truper.release.xcconfig */;
+			baseConfigurationReference = E7D8C2B76DBF34C24F8B169D /* Pods-Truper.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -832,7 +768,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 49469ADA30C8436F36A52814 /* Pods-Truper-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 797AC51EEC309EDBF31198D3 /* Pods-Truper-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -860,7 +796,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 437D0ACC97D984ABEF7F8DCB /* Pods-Truper-tvOS.release.xcconfig */;
+			baseConfigurationReference = EEFCF93DCFA0A04391EB1E34 /* Pods-Truper-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -888,7 +824,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9723B82D8C9BB08A0D6317C3 /* Pods-Truper-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 49E739469B106B17326CE86C /* Pods-Truper-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -915,7 +851,7 @@
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3D59101265768EB826CB3E44 /* Pods-Truper-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = A8242876064F9C12625AD192 /* Pods-Truper-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
